@@ -8,3 +8,4 @@ Here:
 5.Array
 6.Conditional_Statement
 6.Review All topic
+7.String to integer
