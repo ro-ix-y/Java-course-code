@@ -11,3 +11,4 @@ Here:
 7.String to integer
 8.Map
 9.Palindrome(charAt)
+10.Anagrams
