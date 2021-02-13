@@ -12,3 +12,4 @@ Here:
 8.Map
 9.Palindrome(charAt)
 10.Anagrams
+11.Factorial(BufferedWriter)
