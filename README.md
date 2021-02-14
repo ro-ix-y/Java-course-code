@@ -14,3 +14,4 @@ Here:
 10.Anagrams
 11.Factorial(BufferedWriter)
 12.BigInteger
+13.Binary
