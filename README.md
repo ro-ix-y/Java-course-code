@@ -15,3 +15,4 @@ Here:
 11.Factorial(BufferedWriter)
 12.BigInteger
 13.Binary
+14.Encapsulation
